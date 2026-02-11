@@ -20,7 +20,7 @@ Without a clear understanding of why users are canceling, retention initiatives 
 
 ## Cancellation Reasons by Reason Order
 
-![Subscription Cancellation Reasons by Reason Order](subscription_cancelation_reason_order.png)
+![Subscription Cancellation Reasons by Reason Order](subscription_cancelation_reason_orders.png)
 
 The chart illustrates user-reported cancellation reasons by reason order, showing what users cite as their primary, secondary, and tertiary drivers of churn. The most common primary reasons include “Not useful,” “Expensive,” and “Went to a competitor,” suggesting multiple contributing factors behind cancellation decisions. The noticeable drop-off in responses after the first reason indicates limited visibility into secondary drivers of churn. This highlights a gap in understanding how cancellation reasons compound, motivating deeper analysis into churn drivers. These insights provide a data-backed foundation for prioritizing retention initiatives with the highest potential revenue impact.
 
@@ -65,7 +65,7 @@ As a primary cancellation reason:
 
 This indicates that perceived lack of product value is the strongest initial driver of churn, followed closely by pricing concerns and competitive alternatives.
 
-*insert cancelation_reason1*
+![Primary Cancellation Reason](cancelation_reason1.png)
 
 ---
 
