@@ -50,7 +50,7 @@ The chart illustrates user-reported cancellation reasons by reason order, showin
 
 A large majority of users selected at least one additional cancellation reason beyond the required first reason, indicating that churn decisions are typically driven by multiple contributing factors rather than a single issue. However, the number of users providing a third cancellation reason drops significantly, suggesting reduced engagement as additional input is required and limited value from collecting more than two reasons.
 
-*insert subscription_cancelation_reason_order*
+![Subscription Cancellation Reasons by Reason Order](subscription_cancelation_reason_orders.png)
 
 ---
 
