@@ -1,5 +1,8 @@
 # Subscription Cancellation Analysis (Project 2)
 
+🔗 **Live Interactive Notebook (Hex):**  
+https://app.hex.tech/big-sql-energy/hex/Project-2-Subscription-Cancelation-Analysis-031ZabB9FpDxlB76dWHmJ0/draft/logic
+
 ## Executive Summary
 
 The company is experiencing elevated subscription churn with material revenue implications. Leadership has requested a deeper understanding of why users are canceling in order to inform data-driven retention strategies. This analysis leverages user-reported cancellation reasons to uncover key churn drivers, identify trends over time, and generate actionable recommendations to improve retention.
