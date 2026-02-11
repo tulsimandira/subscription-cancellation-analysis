@@ -73,7 +73,7 @@ This indicates that perceived lack of product value is the strongest initial dri
 
 Over time, cancellations attributed to pricing (“Expensive”) increase steadily, rising from earlier years to the most recent period. In contrast, “Not useful” declines after 2023, suggesting that product value concerns are becoming less dominant relative to pricing sensitivity. “Went to a competitor” remains relatively stable across years, indicating sustained competitive pressure rather than a short-term shift.
 
-*insert trends_in_cancelation_reasons_over_time*
+![Trends in Cancellation Reasons Over Time](trends_in_cancelation_reasons_over_time.png)
 
 ---
 
@@ -83,7 +83,7 @@ Across all users and cancellation reason selections, pricing (“Expensive”) a
 
 “Not useful” accounts for ~28% of cancellation reasons, suggesting that perceived lack of value remains a meaningful contributor, but often appears alongside pricing or competitive concerns rather than as a standalone issue. In contrast, customer service-related reasons represent only ~13%, indicating that support issues are a relatively minor driver of churn in comparison.
 
-*insert cancelation_reason_distribution_across_all_users*
+![Cancellation Reason Distribution Across All Users](cancelation_reason_distribution_across_all_users.png)
 
 ---
 
