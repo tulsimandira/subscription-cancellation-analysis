@@ -23,7 +23,7 @@ Without a clear understanding of why users are canceling, retention initiatives 
 
 ## Cancellation Reasons by Reason Order
 
-![Subscription Cancellation Reasons by Reason Order](subscription_cancelation_reason_orders.png)
+![Subscription Cancellation Reasons by Reason Order](images/subscription_cancelation_reason_orders.png)
 
 The chart illustrates user-reported cancellation reasons by reason order, showing what users cite as their primary, secondary, and tertiary drivers of churn. The most common primary reasons include “Not useful,” “Expensive,” and “Went to a competitor,” suggesting multiple contributing factors behind cancellation decisions. The noticeable drop-off in responses after the first reason indicates limited visibility into secondary drivers of churn. This highlights a gap in understanding how cancellation reasons compound, motivating deeper analysis into churn drivers. These insights provide a data-backed foundation for prioritizing retention initiatives with the highest potential revenue impact.
 
@@ -53,7 +53,7 @@ The chart illustrates user-reported cancellation reasons by reason order, showin
 
 A large majority of users selected at least one additional cancellation reason beyond the required first reason, indicating that churn decisions are typically driven by multiple contributing factors rather than a single issue. However, the number of users providing a third cancellation reason drops significantly, suggesting reduced engagement as additional input is required and limited value from collecting more than two reasons.
 
-![Subscription Cancellation Reasons by Reason Order](subscription_cancelation_reason_orders.png)
+![Subscription Cancellation Reasons by Reason Order](images/subscription_cancelation_reason_orders.png)
 
 ---
 
@@ -68,7 +68,7 @@ As a primary cancellation reason:
 
 This indicates that perceived lack of product value is the strongest initial driver of churn, followed closely by pricing concerns and competitive alternatives.
 
-![Primary Cancellation Reason](cancelation_reason1.png)
+![Primary Cancellation Reason](images/cancelation_reason1.png)
 
 ---
 
@@ -76,7 +76,7 @@ This indicates that perceived lack of product value is the strongest initial dri
 
 Over time, cancellations attributed to pricing (“Expensive”) increase steadily, rising from earlier years to the most recent period. In contrast, “Not useful” declines after 2023, suggesting that product value concerns are becoming less dominant relative to pricing sensitivity. “Went to a competitor” remains relatively stable across years, indicating sustained competitive pressure rather than a short-term shift.
 
-![Trends in Cancellation Reasons Over Time](trends_in_cancelation_reasons_over_time.png)
+![Trends in Cancellation Reasons Over Time](images/trends_in_cancelation_reasons_over_time.png)
 
 ---
 
@@ -86,7 +86,7 @@ Across all users and cancellation reason selections, pricing (“Expensive”) a
 
 “Not useful” accounts for ~28% of cancellation reasons, suggesting that perceived lack of value remains a meaningful contributor, but often appears alongside pricing or competitive concerns rather than as a standalone issue. In contrast, customer service-related reasons represent only ~13%, indicating that support issues are a relatively minor driver of churn in comparison.
 
-![Cancellation Reason Distribution Across All Users](cancelation_reason_distribution_across_all_users.png)
+![Cancellation Reason Distribution Across All Users](images/cancelation_reason_distribution_across_all_users.png)
 
 ---
 
