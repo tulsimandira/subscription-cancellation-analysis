@@ -1,7 +1,9 @@
 # Subscription Cancellation Analysis (Project 2)
 
 🔗 **Live Interactive Notebook (Hex):**  
-https://app.hex.tech/big-sql-energy/hex/Project-2-Subscription-Cancelation-Analysis-031ZabB9FpDxlB76dWHmJ0/draft/logic
+https://app.hex.tech/big-sql-energy/app/Project-2-Subscription-Cancelation-Analysis-031ZabB9FpDxlB76dWHmJ0/latest
+
+---
 
 ## Executive Summary
 
