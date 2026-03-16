@@ -70,7 +70,7 @@ As a primary cancellation reason:
 
 This indicates that perceived lack of product value is the strongest initial driver of churn, followed closely by pricing concerns and competitive alternatives.
 
-![Primary Cancellation Reason](images/cancelation_reason1.png)
+![Primary Cancellation Reason](images/cancel_reason1.png)
 
 ---
 
